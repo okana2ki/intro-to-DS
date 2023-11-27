@@ -1,2 +1,2 @@
 # intro-to-DS
-introduction to data science
+Introduction to data science
